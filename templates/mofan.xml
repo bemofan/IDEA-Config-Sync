@@ -1,0 +1,10 @@
+<templateSet group="mofan">
+  <template name="/doc" value="/**&#10; * $end$&#10; * @author mofan&#10; * @date $DATE$ $TIME$&#10; */" description="doc" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
