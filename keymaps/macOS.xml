@@ -14,4 +14,7 @@
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="CheckinProject" />
+  <action id="OpenInBrowser">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
 </keymap>
