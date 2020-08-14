@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.IllegalArgumentException: XML fragments parsed from previous mappers does not contain value for me.mofan.dao.UserDao.defaultUser " />
       <item value="java.lang.ClassCastException: class me.mofan.domain.Account cannot be cast to class me.mofan.domain.AccountUser (me.mofan.domain.Account and me.mofan.domain.AccountUser are in unnamed module of loader 'app') " />
       <item value="### Cause: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure " />
       <item value="Last packet sent to the server was 1 ms ago. " />
