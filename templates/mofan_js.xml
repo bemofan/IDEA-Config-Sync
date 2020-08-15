@@ -1,5 +1,5 @@
 <templateSet group="mofan_js">
-  <template name="js" value="&lt;script&gt;&#10;    &#10;&lt;/script&gt;" description="js" toReformat="false" toShortenFQNames="true">
+  <template name="js" value="&lt;script&gt;&#10;    $END$&#10;&lt;/script&gt;" description="js" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JSP" value="true" />
