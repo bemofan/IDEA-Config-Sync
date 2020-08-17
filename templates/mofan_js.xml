@@ -16,4 +16,17 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="fan" value="function ($ONE$) {&#10;    $END$&#10;}" description="fan" toReformat="false" toShortenFQNames="true">
+    <variable name="ONE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fn" value="function $ONE$($TWO$) {&#10;    $END$&#10;}" description="fn" toReformat="false" toShortenFQNames="true">
+    <variable name="ONE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TWO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
