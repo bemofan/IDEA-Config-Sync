@@ -11,11 +11,6 @@
       <option name="JSP" value="true" />
     </context>
   </template>
-  <template name="us" value="'use strict'" description="us" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
   <template name="fan" value="function ($ONE$) {&#10;    $END$&#10;}" description="fan" toReformat="false" toShortenFQNames="true">
     <variable name="ONE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
