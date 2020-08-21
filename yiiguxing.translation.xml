@@ -13,10 +13,4 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-    <option name="keepFormat" value="true" />
-    <option name="showWordsOnStartup" value="true" />
-    <option name="translateDocumentation" value="true" />
-  </component>
 </application>
