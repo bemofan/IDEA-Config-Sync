@@ -49,6 +49,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="OpenInBrowser">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="编辑Undo">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
