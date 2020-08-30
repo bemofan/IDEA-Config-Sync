@@ -1,45 +1,26 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
       <component name="CompilerConfiguration">
+        <option name="USE_RELEASE_OPTION" value="false" />
         <annotationProcessing>
           <profile default="true" name="Default" enabled="true" />
         </annotationProcessing>
+        <bytecodeTargetLevel target="11" />
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
             <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+            <option name="userSettingsFile" value="/usr/local/Cellar/maven/3.6.3_1/libexec/conf/setting.xml" />
           </MavenGeneralSettings>
         </option>
-        <option name="importingSettings">
-          <MavenImportingSettings>
-            <option name="vmOptionsForImporter" value="-Xmx768m" />
-          </MavenImportingSettings>
-        </option>
-      </component>
-      <component name="MavenRunner">
-        <option name="jreName" value="11" />
-        <option name="vmOptions" value="-DarchetypeCatalog=internal" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>11</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
+        <property name="settings.editor.selected.configurable" value="ics" />
       </component>
     </defaultProject>
   </component>

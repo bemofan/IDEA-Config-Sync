@@ -7,11 +7,4 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="date" value="$Date$ $Time$" description="datetime" toReformat="false" toShortenFQNames="true">
-    <variable name="Date" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="Time" expression="time()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
 </templateSet>
