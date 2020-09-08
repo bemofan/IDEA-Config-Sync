@@ -14,6 +14,10 @@
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="CheckinProject" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="OpenInBrowser">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>

@@ -4,6 +4,13 @@
       <component name="AutoImportSettings">
         <option name="autoReloadType" value="SELECTIVE" />
       </component>
+      <component name="CompilerConfiguration">
+        <option name="USE_RELEASE_OPTION" value="false" />
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true" />
+        </annotationProcessing>
+        <bytecodeTargetLevel target="11" />
+      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
@@ -13,7 +20,7 @@
         </option>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+        <property name="settings.editor.selected.configurable" value="ics" />
       </component>
     </defaultProject>
   </component>
