@@ -24,6 +24,11 @@
         <option value="deep-completions" />
       </set>
     </option>
+    <option name="completeIndexingProjects">
+      <map>
+        <entry key="b29d4428" value="4" />
+      </map>
+    </option>
     <option name="usedLanguages">
       <set>
         <option value="java" />
