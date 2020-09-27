@@ -16,7 +16,6 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-65536" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
@@ -111,5 +110,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>
