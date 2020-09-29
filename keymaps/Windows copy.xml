@@ -79,7 +79,6 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
-    <keyboard-shortcut first-keystroke="alt n" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="GotoAction">
@@ -98,7 +97,7 @@
   <action id="GotoClass" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
-    <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="OpenInBrowser">
     <keyboard-shortcut first-keystroke="alt b" />
