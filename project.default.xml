@@ -1,26 +1,12 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="AutoImportSettings">
-        <option name="autoReloadType" value="SELECTIVE" />
-      </component>
-      <component name="CompilerConfiguration">
-        <option name="USE_RELEASE_OPTION" value="false" />
-        <annotationProcessing>
-          <profile default="true" name="Default" enabled="true" />
-        </annotationProcessing>
-        <bytecodeTargetLevel target="11" />
-      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-            <option name="userSettingsFile" value="/usr/local/Cellar/maven/3.6.3_1/libexec/conf/setting.xml" />
+            <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
           </MavenGeneralSettings>
         </option>
-      </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="ics" />
       </component>
     </defaultProject>
   </component>
