@@ -16,6 +16,7 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-65536" />
+                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
@@ -84,7 +85,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1596706575356" />
+          <option name="id" value="1601480066847" />
           <option name="inputFilterGroups">
             <list>
               <GrepExpressionGroup>
@@ -110,6 +111,5 @@
         </Profile>
       </list>
     </option>
-    <option name="version" value="1" />
   </component>
 </application>
