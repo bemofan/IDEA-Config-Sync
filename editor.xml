@@ -8,6 +8,7 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
+    <option name="FONT_FAMILY" value="Source Han Sans CN Regular" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
