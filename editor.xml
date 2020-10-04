@@ -1,14 +1,17 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Anonymous Pro" />
-    <option name="SECONDARY_FONT_FAMILY" value="Hack" />
+    <option name="FONT_SIZE" value="19" />
+    <option name="FONT_FAMILY" value="Source Code Pro Semibold" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>
