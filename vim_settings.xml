@@ -16,7 +16,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -52,7 +52,7 @@
     </shortcut-conflicts>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="false" />
+    <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
