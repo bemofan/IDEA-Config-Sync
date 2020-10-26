@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: java.lang.ClassCastException: com.github.pagehelper.PageHelper cannot be cast to org.apache.ibatis.plugin.Interceptor" />
+      <item value="The error may exist in SQL Mapper Configuration" />
       <item value="Wise Hotkey is a simple and easy- to-use program that can help you improve   | | the efficiency of using computer. It can implement that quick start or quick | | switch any application, folder or website by using keyboard shortcuts." />
       <item value="A duplicate file management tool that can help you find and delete duplicate | | files by comparing file name, file size or contents. Get rid of annoying     | | duplicates and free up more space on your hard disks." />
       <item value="Best Selling PC Optimize Software Worldwide" />
@@ -15,12 +17,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-    <option name="keepFormat" value="true" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>

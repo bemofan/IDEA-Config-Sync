@@ -1,26 +1,13 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="AutoImportSettings">
-        <option name="autoReloadType" value="SELECTIVE" />
-      </component>
-      <component name="CompilerConfiguration">
-        <option name="USE_RELEASE_OPTION" value="false" />
-        <annotationProcessing>
-          <profile default="true" name="Default" enabled="true" />
-        </annotationProcessing>
-        <bytecodeTargetLevel target="11" />
-      </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-            <option name="userSettingsFile" value="/usr/local/Cellar/maven/3.6.3_1/libexec/conf/setting.xml" />
-          </MavenGeneralSettings>
-        </option>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state />
+        </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="ics" />
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
       </component>
     </defaultProject>
   </component>

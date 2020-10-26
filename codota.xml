@@ -1,10 +1,10 @@
 <application>
   <component name="CodotaSettings">
     <option name="methodCompletionsPercentageSet" value="true" />
-    <option name="id" value="4e61761b-2fc4-421c-9e6f-6502f363e405" />
+    <option name="id" value="7eeda002-3904-4bc1-b5e2-3101499c5eb9" />
     <option name="wasRunBefore" value="true" />
-    <option name="firstRun" value="1596706674112" />
-    <option name="generation" value="116" />
+    <option name="firstRun" value="1601480068138" />
+    <option name="generation" value="125" />
     <option name="updateGeneration" value="1" />
     <option name="isInJSBeta" value="YES" />
     <option name="isMethodCompletionsPercentageActive" value="true" />
@@ -26,13 +26,14 @@
     </option>
     <option name="completeIndexingProjects">
       <map>
-        <entry key="b29d4428" value="4" />
+        <entry key="bcfd6a8c" value="1" />
       </map>
     </option>
     <option name="usedLanguages">
       <set>
         <option value="java" />
         <option value="javascript" />
+        <option value="kotlin" />
       </set>
     </option>
   </component>

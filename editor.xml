@@ -1,19 +1,8 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="completionCaseSensitive" value="2" />
-    <option name="selectAutopopupSuggestionsByChars" value="true" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Hack" />
+    <option name="FONT_SIZE" value="19" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+  <component name="EditorSettings">
+    <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
 </application>

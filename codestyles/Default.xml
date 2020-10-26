@@ -1,7 +1,4 @@
 <code_scheme name="Default" version="173">
-  <HTMLCodeStyleSettings>
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="thead,tbody,tfoot" />
-  </HTMLCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>
