@@ -14,5 +14,8 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="OpenInBrowser">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="SelectNextOccurrence" />
 </keymap>
