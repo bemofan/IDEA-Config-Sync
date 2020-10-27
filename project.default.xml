@@ -1,13 +1,28 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state />
-        </entry>
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="checkstyle-version" value="8.36.2" />
+            <entry key="copy-libs" value="true" />
+            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+            <entry key="scan-before-checkin" value="false" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+          </map>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+          </MavenGeneralSettings>
+        </option>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
       </component>
     </defaultProject>
   </component>
