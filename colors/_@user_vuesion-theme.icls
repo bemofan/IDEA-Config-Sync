@@ -4,12 +4,12 @@
     <property name="created">2020-10-29T17:07:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-10-29T17:07:48</property>
+    <property name="modified">2020-11-01T19:49:58</property>
     <property name="originalScheme">vuesion-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="Courier Prime Sans" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
