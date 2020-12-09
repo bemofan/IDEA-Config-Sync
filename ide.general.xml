@@ -8,6 +8,7 @@
   </component>
   <component name="Registry">
     <entry key="compiler.automake.allow.when.app.running" value="true" />
-    <entry key="ide.balloon.shadow.size" value="15" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>
