@@ -1532,6 +1532,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.vue">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.vue" />
+              <option name="myPluginName" value="Vue.js" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.wadl">
           <value>
             <plugin>
@@ -2403,6 +2411,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
+                    </value>
+                  </entry>
+                  <entry key="JRebel">
+                    <value>
+                      <FeaturePluginData displayName="JRebel" pluginName="JRebel and XRebel for IntelliJ" pluginId="JRebelPlugin" />
                     </value>
                   </entry>
                   <entry key="Spring">
