@@ -1,10 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account id="56235c80-4d85-430d-8cd0-ea1caa438b9b" name="bemofan">
+    <account id="635370b4-9476-40e8-a391-45033b41cada" name="bemofan">
       <server host="github.com" />
     </account>
-  </component>
-  <component name="GithubSettings">
-    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
