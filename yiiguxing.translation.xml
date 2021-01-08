@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.ClassCastException: class pers.mofan.domain.User cannot be cast to class pers.mofan.domain.Order (pers.mofan.domain.User and pers.mofan.domain.Order are in unnamed module of loader 'app')" />
       <item value="org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: java.lang.ClassCastException: com.github.pagehelper.PageHelper cannot be cast to org.apache.ibatis.plugin.Interceptor" />
       <item value="The error may exist in SQL Mapper Configuration" />
       <item value="Wise Hotkey is a simple and easy- to-use program that can help you improve   | | the efficiency of using computer. It can implement that quick start or quick | | switch any application, folder or website by using keyboard shortcuts." />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
