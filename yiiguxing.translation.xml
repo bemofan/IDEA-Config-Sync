@@ -1,4 +1,10 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Error running process: CreateProcess failed. Code 2" />
+      <item value="http_proxy=&quot;http://127.0.0.1:7890&quot;;https_proxy=&quot;http://127.0.0.1:7890&quot;" />
+    </histories>
+  </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1610116494007" />
   </component>
