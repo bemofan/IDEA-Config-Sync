@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="434" />
     <histories>
+      <item value="evaluation&#10;" />
       <item value="nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testMapper' defined in file" />
       <item value="Injection of resource dependencies failed" />
       <item value="java.lang.ClassCastException: class pers.mofan.domain.User cannot be cast to class pers.mofan.domain.Order (pers.mofan.domain.User and pers.mofan.domain.Order are in unnamed module of loader 'app')" />
@@ -28,6 +32,7 @@
     <option name="lastTrimTime" value="1610244250142" />
   </component>
   <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
