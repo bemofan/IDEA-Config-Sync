@@ -1,6 +1,15 @@
 <application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="449" />
+    <histories>
+      <item value="http_proxy=&quot;http://127.0.0.1:7890&quot;;https_proxy=&quot;http://127.0.0.1:7890&quot;" />
+      <item value="Error running process: CreateProcess failed. Code 2" />
+    </histories>
+  </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610116494007" />
+    <option name="lastTrimTime" value="1610592114855" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />

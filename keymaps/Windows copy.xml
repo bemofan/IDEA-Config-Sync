@@ -1,37 +1,12 @@
 <keymap version="1" name="Windows copy" parent="$default">
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
-    <keyboard-shortcut first-keystroke="alt comma" />
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
   </action>
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="alt j" />
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
   </action>
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="alt h" />
-  </action>
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
-  <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="alt a" />
-  </action>
-  <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="alt l" />
-  </action>
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="alt k" />
-  </action>
-  <action id="FileChooser.NewFolder">
-    <keyboard-shortcut first-keystroke="alt insert" />
-    <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
+  <action id="ChangesView.Move" />
+  <action id="ContextHelp" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
@@ -40,5 +15,5 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
-  <action id="SelectNextOccurrence" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
