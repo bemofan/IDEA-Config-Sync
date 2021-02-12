@@ -6,10 +6,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
   </action>
   <action id="ChangesView.Move" />
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
-    <keyboard-shortcut first-keystroke="alt comma" />
-  </action>
   <action id="ContextHelp" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
